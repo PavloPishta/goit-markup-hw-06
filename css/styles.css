@@ -940,7 +940,6 @@ button {
 .contact-form-checkbox:checked + .contact-form-checkbox-desc::before {
     background-color: var(--accent-color);
     background-image: url("../images/icon-check.svg");
-    background-size: 11px 8px;
     background-position: 50% 50%;
     background-repeat:no-repeat;
     border: none;
